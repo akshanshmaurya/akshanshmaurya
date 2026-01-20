@@ -1,5 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>A Career Guidance System using NLP & Reinforcement Learning, where NLP analyzes user interests and skills, and RL improves career recommendations over time based on user feedback<br><br>Data Structures & Algorithms (DSA) in Java, focusing on strong fundamentals and efficient problem-solving<br><br>👯 I’m looking to collaborate on<br><br>AI/ML projects, especially NLP, Reinforcement Learning, and recommendation systems<br><br>Open-source projects related to algorithms and real-world problem solving<br><br>🤝 I’m looking for help with<br><br>Designing effective RL reward functions<br><br>Writing optimized DSA solutions and improving interview-level problem solving<br><br>🌱 I’m currently learning<br><br>Reinforcement Learning & NLP<br><br>Advanced DSA patterns in Java<br><br>💬 Ask me about<br><br>DSA in Java<br><br>NLP, Reinforcement Learning, and project-based learning<br><br>⚡ Fun fact<br><br>I enjoy simplifying complex concepts until they feel intuitive 🚀
+## 👋 Hello, I’m Akshansh
+
+I believe complex ideas are meant to be *understood*, not memorized.  
+So I break them down, rebuild them, and make them intuitive — one concept at a time.
+
+---
+
+## 🔭 What I’m Currently Working On
+
+🚀 **Career Guidance System (AI-powered)**  
+- Uses **NLP** to understand user interests and skills  
+- Applies **Reinforcement Learning** to improve career recommendations over time  
+- Learns continuously from user feedback, just like a real mentor would
+
+🧠 **Data Structures & Algorithms (Java)**  
+- Strengthening core fundamentals  
+- Writing efficient, optimized solutions  
+- Focusing on interview-level problem solving and clean logic
+
+---
+
+## 👯 Open to Collaborations
+
+I enjoy working with people who love *thinking deeply* about problems.
+
+🤖 **AI / ML Projects**
+- NLP systems  
+- Reinforcement Learning  
+- Recommendation engines  
+
+🌍 **Open Source**
+- Algorithms & data structures  
+- Real-world problem solving  
+- Well-documented, meaningful codebases
+
+---
+
+## 🤝 Looking for Guidance On
+
+🎯 **Reinforcement Learning**
+- Designing effective and stable reward functions  
+- Balancing exploration vs exploitation in real systems  
+
+⚙️ **DSA in Java**
+- Writing optimized solutions  
+- Recognizing patterns behind problems  
+- Improving speed, clarity, and confidence for interviews
+
+---
+
+## 🌱 Currently Learning
+
+📘 Reinforcement Learning & Natural Language Processing  
+📗 Advanced DSA patterns and problem-solving strategies in Java  
+
+---
+
+## 💬 Ask Me About
+
+- Data Structures & Algorithms in Java  
+- NLP & Reinforcement Learning  
+- Learning through projects instead of rote theory  
+
+I enjoy discussions that go *one level deeper* than surface answers.
+
+---
+
+## ⚡ Fun Fact
+
+I don’t move on from a concept  
+until it feels **obvious**. 🚀  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshansh_.maurya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-maurya-323478289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshanshmaurya1234@gmail.com) 

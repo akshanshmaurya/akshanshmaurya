@@ -25,8 +25,7 @@ I enjoy working with people who love *thinking deeply* about problems.
 
 🤖 **AI / ML Projects**
 - NLP systems  
-- Reinforcement Learning  
-- Recommendation engines  
+- Reinforcement Learning   
 
 🌍 **Open Source**
 - Algorithms & data structures  

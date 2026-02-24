@@ -1,86 +1,131 @@
-## 👋 Hello, I’m Akshansh
+<div align="center">
 
-I believe complex ideas are meant to be *understood*, not memorized.  
-So I break them down, rebuild them, and make them intuitive — one concept at a time.
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshansh%20Maurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Builder%20%7C%20AI%20Engineer%20%7C%20System%20Designer&descAlignY=55&descSize=16"/>
 
----
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=I+build+things+that+think.;TypeScript+%2B+Python+%2B+AI+%3D+my+stack.;System+design+is+my+language.;I+don't+stop+until+it's+obvious." alt="Typing SVG" />
+</a>
 
-## 🔭 What I’m Currently Working On
+<br/>
 
-🚀 **Career Guidance System (AI-powered)**  
-- Uses **NLP** to understand user interests and skills  
-- Applies **Reinforcement Learning** to improve career recommendations over time  
-- Learns continuously from user feedback, just like a real mentor would
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-maurya-323478289)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshansh_.maurya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshansh_maurya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshanshmaurya1234@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=akshanshmaurya&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/akshanshmaurya)
 
-🧠 **Data Structures & Algorithms (Java)**  
-- Strengthening core fundamentals  
-- Writing efficient, optimized solutions  
-- Focusing on interview-level problem solving and clean logic
-
----
-
-## 👯 Open to Collaborations
-
-I enjoy working with people who love *thinking deeply* about problems.
-
-🤖 **AI / ML Projects**
-- NLP systems  
-- Reinforcement Learning   
-
-🌍 **Open Source**
-- Algorithms & data structures  
-- Real-world problem solving  
-- Well-documented, meaningful codebases
+</div>
 
 ---
 
-## 🤝 Looking for Guidance On
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
-🎯 **Reinforcement Learning**
-- Designing effective and stable reward functions  
-- Balancing exploration vs exploitation in real systems  
+### `> whoami`
 
-⚙️ **DSA in Java**
-- Writing optimized solutions  
-- Recognizing patterns behind problems  
-- Improving speed, clarity, and confidence for interviews
+```ts
+const akshansh = {
+  role     : "Full-Stack AI Engineer",
+  focus    : ["System Design", "NLP", "Reinforcement Learning"],
+  stack    : ["TypeScript", "Python", "React", "Next.js", "FastAPI"],
+  learning : ["Advanced RL reward shaping", "DSA patterns in Java"],
+  motto    : "Don't move on until it feels obvious 🚀"
+};
+```
 
----
-
-## 🌱 Currently Learning
-
-📘 Reinforcement Learning & Natural Language Processing  
-📗 Advanced DSA patterns and problem-solving strategies in Java  
+<br clear="right"/>
 
 ---
 
-## 💬 Ask Me About
+## ⚡ What I Ship
 
-- Data Structures & Algorithms in Java  
-- NLP & Reinforcement Learning  
-- Learning through projects instead of rote theory  
+<div align="center">
 
-I enjoy discussions that go *one level deeper* than surface answers.
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**🧠 Synapse**](https://github.com/akshanshmaurya/Synapse) | AI-powered career guidance — NLP + RL mentor | `TS` `Python` `AI` |
+| [**🗺️ RoadForge**](https://road-forge.vercel.app) | Forges learning roadmaps with precision | `Next.js` `TS` |
+| [**🌀 vortex3D**](https://vortex3-d.vercel.app) | 3D interactive web experience | `TS` `Python` `Three.js` |
+| [**🎓 WisePal**](https://ai-smart-classroom.vercel.app) | AI smart classroom — learn, not memorize | `TS` `Next.js` |
+| [**💼 Prep-Pro**](https://github.com/akshanshmaurya/Prep-Pro) | Interview prep, redefined | `TS` |
+| [**🔧 GenRefactorer**](https://github.com/akshanshmaurya/GenRefactorer) | AI-powered code refactoring assistant | `TS` |
+
+</div>
+
+---
+
+## 🧬 Tech DNA
+
+<div align="center">
+
+**Languages & Runtimes**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend & AI/ML**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Cloud & Infra**
+
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 📊 Stats & Activity
 
-I don’t move on from a concept  
-until it feels **obvious**. 🚀  
+<div align="center">
 
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff&langs_count=6"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshansh_.maurya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-maurya-323478289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshanshmaurya1234@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshanshmaurya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshanshmaurya&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshanshmaurya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🟨 LeetCode Grind
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Akshansh_maurya?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats & Heatmap" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+> *"I enjoy discussions that go one level deeper than surface answers."*
+>
+> Open to collaborations on **AI/ML systems**, **open source DSA**, and **real-world full-stack products**.
+> DM me on LinkedIn or drop an email — I respond to interesting problems. 🚀
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>

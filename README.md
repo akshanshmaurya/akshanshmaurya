@@ -22,21 +22,16 @@
 
 ### `> whoami`
 
-<div align="center">
-
-<img src="https://github-stats.piyushsuthar.workers.dev/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true&rank_icon=github" />
-
-</div>
-
-<br/>
-
 ```ts
-const akshansh = {
+const akshansh: Developer = {
+  name     : "Akshansh Maurya",
   role     : "Full-Stack AI Engineer",
+  location : "India 🇮🇳",
   focus    : ["System Design", "NLP", "Reinforcement Learning"],
   stack    : ["TypeScript", "Python", "React", "Next.js", "FastAPI"],
   learning : ["Advanced RL reward shaping", "DSA patterns in Java"],
-  motto    : "Don't move on until it feels obvious 🚀"
+  openTo   : ["AI/ML collabs", "Open Source", "Interesting problems"],
+  motto    : "Don't move on until it feels obvious 🚀",
 };
 ```
 
@@ -96,14 +91,9 @@ const akshansh = {
 
 ---
 
-## 📊 Stats & Activity
+## 📊 Activity
 
 <div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364&dates=555555" />
-<img height="170" src="https://github-stats.piyushsuthar.workers.dev/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
-
-<br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshanshmaurya&bg_color=fffefe&color=2c5364&line=2c5364&point=e74c3c&area=true&hide_border=false&border_color=2c5364&custom_title=Contribution%20Activity" />
 
@@ -125,7 +115,7 @@ const akshansh = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/akshanshmaurya-323478289">
+<a href="https://linkedin.com/in/akshansh-maurya-323478289">
   <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;

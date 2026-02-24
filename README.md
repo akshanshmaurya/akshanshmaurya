@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true&rank_icon=github" />
+<img src="https://github-stats.piyushsuthar.workers.dev/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true&rank_icon=github" />
 
 </div>
 
@@ -100,8 +100,8 @@ const akshansh = {
 
 <div align="center">
 
-<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364&dates=555555" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
+<img height="170" src="https://streak-stats.demolab.com?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364&dates=555555" />
+<img height="170" src="https://github-stats.piyushsuthar.workers.dev/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
 
 <br/><br/>
 
@@ -125,7 +125,7 @@ const akshansh = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/akshansh-maurya-323478289">
+<a href="https://linkedin.com/in/akshanshmaurya-323478289">
   <img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;

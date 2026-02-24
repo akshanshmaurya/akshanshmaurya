@@ -20,9 +20,15 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true" />
-
 ### `> whoami`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true&rank_icon=github" />
+
+</div>
+
+<br/>
 
 ```ts
 const akshansh = {
@@ -33,8 +39,6 @@ const akshansh = {
   motto    : "Don't move on until it feels obvious 🚀"
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -96,12 +100,12 @@ const akshansh = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364&dates=555555" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshanshmaurya&bg_color=ffffff&color=2c5364&line=2c5364&point=e74c3c&area=true&area_color=2c536420&hide_border=false&border_color=2c5364&custom_title=Contribution%20Activity" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshanshmaurya&bg_color=fffefe&color=2c5364&line=2c5364&point=e74c3c&area=true&hide_border=false&border_color=2c5364&custom_title=Contribution%20Activity" />
 
 </div>
 

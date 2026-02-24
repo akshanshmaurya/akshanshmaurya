@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshansh%20Maurya&fontSize=52&fontColor=fff&animation=blinking&fontAlignY=45&desc=Builder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Designer&descAlignY=68&descSize=17&stroke=A9FEF7&strokeWidth=2"/>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshansh%20Maurya&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20System%20Designer%20%E2%80%A2%20Builder&descAlignY=60&descSize=16&descColor=a9fef7"/>
 
-<br/>
-
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=50&lines=I+build+things+that+think+%F0%9F%A7%A0;TypeScript+%2B+Python+%2B+AI+%3D+my+stack+%E2%9A%99%EF%B8%8F;System+design+is+my+language+%F0%9F%8F%97%EF%B8%8F;I+don't+move+on+until+it's+obvious+%F0%9F%9A%80;Building+AI+that+actually+mentors+people+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=I+build+things+that+think+%F0%9F%A7%A0;TypeScript+%2B+Python+%2B+AI+%E2%80%94+my+stack+%E2%9A%99%EF%B8%8F;System+design+is+my+language+%F0%9F%8F%97%EF%B8%8F;I+don't+move+on+until+it's+obvious+%F0%9F%9A%80;Building+AI+that+actually+mentors+people+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -14,13 +14,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshansh_.maurya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akshansh_maurya/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshanshmaurya1234@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=akshanshmaurya&style=for-the-badge&color=A9FEF7&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/akshanshmaurya)
+[![Profile Views](https://komarev.com/ghpvc/?username=akshanshmaurya&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)](https://github.com/akshanshmaurya)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=default&hide_border=false&title_color=2c5364&icon_color=2c5364&text_color=333333&border_color=2c5364&include_all_commits=true&count_private=true" />
 
 ### `> whoami`
 
@@ -36,7 +36,7 @@ const akshansh = {
 
 <br clear="right"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
 ## ⚡ What I Ship
 
@@ -52,7 +52,7 @@ const akshansh = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
 ## 🧬 Tech DNA
 
@@ -90,28 +90,32 @@ const akshansh = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
 ## 📊 Stats & Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff&langs_count=6"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=default&hide_border=false&ring=2c5364&fire=e74c3c&currStreakLabel=2c5364&border=2c5364" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=default&hide_border=false&border_color=2c5364&title_color=2c5364&text_color=333333&langs_count=6" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshanshmaurya&bg_color=ffffff&color=2c5364&line=2c5364&point=e74c3c&area=true&area_color=2c536420&hide_border=false&border_color=2c5364&custom_title=Contribution%20Activity" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
 ## 🟨 LeetCode Grind
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Akshansh_maurya?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats & Heatmap" />
+<img src="https://leetcard.jacoblin.cool/Akshansh_maurya?theme=light&font=JetBrains%20Mono&ext=heatmap&border=1&radius=12" alt="LeetCode Stats & Heatmap" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+---
 
 ## 🤝 Let's Connect
 
@@ -131,6 +135,6 @@ const akshansh = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>

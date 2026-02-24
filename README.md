@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Akshansh%20Maurya&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Builder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Designer&descAlignY=58&descSize=17&stroke=A9FEF7&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshansh%20Maurya&fontSize=52&fontColor=fff&animation=blinking&fontAlignY=45&desc=Builder%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Designer&descAlignY=68&descSize=17&stroke=A9FEF7&strokeWidth=2"/>
 
 <br/>
 
@@ -18,9 +18,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true&rank_icon=github" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=akshanshmaurya&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
 ### `> whoami`
 
@@ -36,49 +36,23 @@ const akshansh = {
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 ## ⚡ What I Ship
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/akshanshmaurya/Synapse">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshanshmaurya&repo=Synapse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/akshanshmaurya/RoadForge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshanshmaurya&repo=RoadForge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/akshanshmaurya/WisePal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshanshmaurya&repo=WisePal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/akshanshmaurya/Prep-Pro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshanshmaurya&repo=Prep-Pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/akshanshmaurya/GenRefactorer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshanshmaurya&repo=GenRefactorer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**🧠 Synapse**](https://github.com/akshanshmaurya/Synapse) | AI-powered career guidance — NLP + RL mentor | `TS` `Python` `AI` |
+| [**🗺️ RoadForge**](https://road-forge.vercel.app) | Forges learning roadmaps with precision | `Next.js` `TS` |
+| [**🎓 WisePal**](https://ai-smart-classroom.vercel.app) | AI smart classroom — learn, not memorize | `TS` `Next.js` |
+| [**💼 Prep-Pro**](https://github.com/akshanshmaurya/Prep-Pro) | Interview prep, redefined | `TS` |
+| [**🔧 GenRefactorer**](https://github.com/akshanshmaurya/GenRefactorer) | AI-powered code refactoring assistant | `TS` |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 ## 🧬 Tech DNA
 
@@ -116,32 +90,28 @@ const akshansh = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 ## 📊 Stats & Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7&sideLabels=A9FEF7&dates=888888"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff&langs_count=6"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshanshmaurya&bg_color=0D1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&area_color=A9FEF720&hide_border=true&custom_title=Contribution%20Graph" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=akshanshmaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=FF6B6B&currStreakLabel=A9FEF7"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshanshmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=ffffff&langs_count=6"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 ## 🟨 LeetCode Grind
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Akshansh_maurya?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20&width=500" alt="LeetCode Stats & Heatmap" />
+<img src="https://leetcard.jacoblin.cool/Akshansh_maurya?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats & Heatmap" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 
 ## 🤝 Let's Connect
 
